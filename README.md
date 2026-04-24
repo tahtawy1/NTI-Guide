@@ -34,47 +34,29 @@ NTI Guide App is a Flutter-based mobile application that helps users explore NTI
 ## 📸 Screenshots
 ## 📱 Screenshots
 
-### 🏠 Home
-![Home](assets/screenshots/home.png)
+### Home
+<img src="assets/screenshots/home.png" width="250"/>
 
-### 📖 Menu
-![Menu](assets/screenshots/menu.png)
+### News
+<img src="assets/screenshots/news.png" width="250"/>
 
-### 📰 News
-![News](assets/screenshots/news.png)
+### Capacity Building
+<img src="assets/screenshots/capacity.png" width="250"/>
 
-### 📚 Capacity Building
-![Capacity](assets/screenshots/capacity.png)
+### Program Details
+<img src="assets/screenshots/program_details.png" width="250"/>
 
-### 📄 Program Details
-![Program Details](assets/screenshots/program_details.png)
+### Program Details 2
+<img src="assets/screenshots/program_details2.png" width="250"/>
 
-### 📄 Program Details 2
-![Program Details 2](assets/screenshots/program_details2.png)
+### Admin Add News
+<img src="assets/screenshots/add_new.png" width="250"/>
 
-### ➕ Add News (Admin)
-![Add News](assets/screenshots/add_new.png)
+### About
+<img src=assets/"screenshots/about.png" width="250"/>
 
-### ℹ️ About
-![About](assets/screenshots/about.png)
-
-### 🚀 Splash Screen
-![Splash](assets/screenshots/splash.png)
-
----
-
-## ⚙️ Project Structure
-lib/
- ├── core/
- ├── features/
- │    ├── splash/
- │    ├── onboarding/
- │    ├── auth/
- │    ├── home/
- │    ├── capacity/
- │    ├── news/
- │    ├── about/
- └── main.dart
+### Splash
+<img src="assets/screenshots/splash.png" width="250"/>
 
 ---
 
