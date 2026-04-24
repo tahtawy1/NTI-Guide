@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423928063312",
+    "project_id": "ntiminia",
+    "storage_bucket": "ntiminia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423928063312:android:9b4482a1951f321f2eb855",
+        "android_client_info": {
+          "package_name": "com.example.nti_hub_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRkhXj5rSErPWqHMCP3wzgIpfv2-5c6qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
