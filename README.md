@@ -32,31 +32,23 @@ NTI Guide App is a Flutter-based mobile application that helps users explore NTI
 ---
 
 ## 📸 Screenshots
-## 📱 Screenshots
 
-### Home
-<img src="assets/screenshots/home.png" width="250"/>
+<p align="center">
+  <img src="assets/screenshots/home.png" width="250"/>
+  <img src="assets/screenshots/news.png" width="250"/>
+  <img src="assets/screenshots/capacity.png" width="250"/>
+</p>
 
-### News
-<img src="assets/screenshots/news.png" width="250"/>
+<p align="center">
+  <img src="assets/screenshots/program_details.png" width="250"/>
+  <img src="assets/screenshots/program_details2.png" width="250"/>
+  <img src="assets/screenshots/add_new.png" width="250"/>
+</p>
 
-### Capacity Building
-<img src="assets/screenshots/capacity.png" width="250"/>
-
-### Program Details
-<img src="assets/screenshots/program_details.png" width="250"/>
-
-### Program Details 2
-<img src="assets/screenshots/program_details2.png" width="250"/>
-
-### Admin Add News
-<img src="assets/screenshots/add_new.png" width="250"/>
-
-### About
-<img src=assets/"screenshots/about.png" width="250"/>
-
-### Splash
-<img src="assets/screenshots/splash.png" width="250"/>
+<p align="center">
+  <img src="assets/screenshots/about.png" width="250"/>
+  <img src="assets/screenshots/splash.png" width="250"/>
+</p>
 
 ---
 
